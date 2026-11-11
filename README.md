@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o Lucas 👋
 
-<!--
-**lucaspaulosx/lucaspaulosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com 5+ anos em fintech, trabalhando com **.NET/C#**, **Angular**, **React** e **AWS**. Gosto de testes, observabilidade e regras de negócio financeiras.
 
-Here are some ideas to get you started:
+## Projeto em destaque
+- **[digital-wallet](https://github.com/lucaspaulosx/digital-wallet)**: carteira digital em .NET 8 + Angular 18 (ledger de partidas dobradas, transferências idempotentes, testes e CI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Back-end:** C#, .NET, Node.js, NestJS  
+**Front-end:** Angular, React, TypeScript  
+**Dados:** PostgreSQL, Redis  
+**Cloud e DevOps:** AWS, Docker, GitHub Actions, Datadog
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/lucas-paulo-31651550/)
